@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Seyyed MohammadHossein Farhani, a self-taught junior programmer who loves coding and learning new things! 😉 
+I'm Seyyed MohammadHossein Farhani, a self-taught junior programmer who loves coding and learning new things! 😉 <br>
 Happy coding! 😎
 
 <!--
